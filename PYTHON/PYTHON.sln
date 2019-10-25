@@ -11,6 +11,16 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "List Less Than Ten", "..\Li
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 4 - Divisors", "..\Exercise 4 - Divisors\Exercise 4 - Divisors.pyproj", "{FC7EFBE1-3EE5-470E-89B0-FF389AA93443}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 5 - List Overlap", "..\Exercise 5 - List Overlap\Exercise 5 - List Overlap.pyproj", "{CD55B173-B259-4AB2-BF34-552A6504AF98}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 6 - String Lists", "..\Exercise 6 - String Lists\Exercise 6 - String Lists.pyproj", "{1422C32A-79E6-47BB-A223-D1EFA88539AC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 7 - List Comprehensions", "..\Exercise 7 - List Comprehensions\Exercise 7 - List Comprehensions.pyproj", "{BDCD7658-D611-4814-AB71-6985FDDD25D2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 8 - Rock Paper Scissors", "..\Exercise 8 - Rock Paper Scissors\Exercise 8 - Rock Paper Scissors.pyproj", "{7A011014-311A-4C79-A45A-23656C85EC91}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 9 - Guessing Game One", "..\Exercise 9 - Guessing Game One\Exercise 9 - Guessing Game One.pyproj", "{CD637418-7FA1-4D5A-817D-7315F041769C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +35,16 @@ Global
 		{FE046436-5965-4908-B892-CAE46F2AA77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7EFBE1-3EE5-470E-89B0-FF389AA93443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FC7EFBE1-3EE5-470E-89B0-FF389AA93443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD55B173-B259-4AB2-BF34-552A6504AF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD55B173-B259-4AB2-BF34-552A6504AF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1422C32A-79E6-47BB-A223-D1EFA88539AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1422C32A-79E6-47BB-A223-D1EFA88539AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCD7658-D611-4814-AB71-6985FDDD25D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCD7658-D611-4814-AB71-6985FDDD25D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A011014-311A-4C79-A45A-23656C85EC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A011014-311A-4C79-A45A-23656C85EC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD637418-7FA1-4D5A-817D-7315F041769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD637418-7FA1-4D5A-817D-7315F041769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
