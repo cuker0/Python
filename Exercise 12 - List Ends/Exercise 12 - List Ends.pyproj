@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0b677d9d-0cf8-4cde-8c83-a3ebec103384</ProjectGuid>
+    <ProjectGuid>3ea32a8e-16e4-42a4-8e09-64da1f0f03a9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Character Input.py</StartupFile>
+    <StartupFile>Exercise_12___List_Ends.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PYTHON</Name>
-    <RootNamespace>PYTHON</RootNamespace>
+    <Name>Exercise 12 - List Ends</Name>
+    <RootNamespace>Exercise 12 - List Ends</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Character Input.py" />
+    <Compile Include="Exercise_12___List_Ends.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

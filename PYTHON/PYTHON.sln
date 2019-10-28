@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYTHON", "PYTHON.pyproj", "{0B677D9D-0CF8-4CDE-8C83-A3EBEC103384}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 1 - Character Input", "Exercise 1 - Character Input.pyproj", "{0B677D9D-0CF8-4CDE-8C83-A3EBEC103384}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 2 (and Solution)", "..\Exercise 2 (and Solution)\Exercise 2 (and Solution).pyproj", "{86763A0E-E8AC-4B5A-A94E-7484018B9716}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "List Less Than Ten", "..\List Less Than Ten\List Less Than Ten.pyproj", "{FE046436-5965-4908-B892-CAE46F2AA77E}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 3 - List Less Than Ten", "..\List Less Than Ten\Exercise 3 - List Less Than Ten.pyproj", "{FE046436-5965-4908-B892-CAE46F2AA77E}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 4 - Divisors", "..\Exercise 4 - Divisors\Exercise 4 - Divisors.pyproj", "{FC7EFBE1-3EE5-470E-89B0-FF389AA93443}"
 EndProject
@@ -20,6 +20,10 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 8 - Rock Paper Scissors", "..\Exercise 8 - Rock Paper Scissors\Exercise 8 - Rock Paper Scissors.pyproj", "{7A011014-311A-4C79-A45A-23656C85EC91}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 9 - Guessing Game One", "..\Exercise 9 - Guessing Game One\Exercise 9 - Guessing Game One.pyproj", "{CD637418-7FA1-4D5A-817D-7315F041769C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 11 - Check Primality Functions", "..\Exercise 11 - Check Primality Functions\Exercise 11 - Check Primality Functions.pyproj", "{F49AFA38-9D0F-4EEC-BC93-96DC63ED9885}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 12 - List Ends", "..\Exercise 12 - List Ends\Exercise 12 - List Ends.pyproj", "{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,10 @@ Global
 		{7A011014-311A-4C79-A45A-23656C85EC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD637418-7FA1-4D5A-817D-7315F041769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CD637418-7FA1-4D5A-817D-7315F041769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49AFA38-9D0F-4EEC-BC93-96DC63ED9885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49AFA38-9D0F-4EEC-BC93-96DC63ED9885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
