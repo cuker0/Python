@@ -25,6 +25,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 11 - Check Primali
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 12 - List Ends", "..\Exercise 12 - List Ends\Exercise 12 - List Ends.pyproj", "{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 13 - Fibonacci", "..\Exercise 13 - Fibonacci\Exercise 13 - Fibonacci.pyproj", "{BB2DFC6F-2325-4818-9F67-1695C502D396}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Exercise 14 - List Remove Duplicates", "..\Exercise 14 - List Remove Duplicates\Exercise 14 - List Remove Duplicates.pyproj", "{9CEAE41A-10B2-4BFE-9530-E5E60C5751D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{F49AFA38-9D0F-4EEC-BC93-96DC63ED9885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3EA32A8E-16E4-42A4-8E09-64DA1F0F03A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2DFC6F-2325-4818-9F67-1695C502D396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2DFC6F-2325-4818-9F67-1695C502D396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEAE41A-10B2-4BFE-9530-E5E60C5751D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEAE41A-10B2-4BFE-9530-E5E60C5751D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
